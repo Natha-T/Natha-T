@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+- 🌱 I’m currently learning Web-3, NFT, DAO👋
 
 <!--
 **Natha-T/Natha-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
